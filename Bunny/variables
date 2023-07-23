@@ -18,4 +18,3 @@ ercf_state_gate_status = [-1, 1, -1, -1, -1]
 ercf_state_loaded_status = -1
 ercf_state_tool_selected = 0
 ercf_state_tool_to_gate_map = [0, 1, 2, 3, 4]
-
